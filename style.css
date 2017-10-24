@@ -1,9 +1,16 @@
 P{
   font-size: 15px;
 }
+
 h1{
   color: dimgray;
 }
+
 h2{
   color: grey;
+}
+
+body{
+  margin: auto;
+  max-width: 500px;
 }
